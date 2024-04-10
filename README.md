@@ -49,12 +49,3 @@ With both the server and client running, you can now explore the functionalities
 on `localhost:3000`.
 This setup allows you to understand the interaction between client and server in real-time media communication.
 
-## Contributing
-
-Contributions to improve or enhance this demo are highly appreciated. Feel free to fork the repository, make changes, and submit a pull request for review.
-
-## Support
-
-For issues or queries, please open an issue in this repository with a clear description of your concern.
-
-Enjoy your journey with the Media Soup Learning Demo!
